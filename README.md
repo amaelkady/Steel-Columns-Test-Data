@@ -1,0 +1,2 @@
+# Steel-Columns-Cyclic-Test-Data
+This repository contains test data sets for steel wide-flange columns tested under cyclic lateral drift combined with axial load. The data includes the moment-rotation hysteretic response at the column base as well as the history of the column axial shortening. Please refer to the publication below for details about the testing program and the basis for the measured test parameters. 
