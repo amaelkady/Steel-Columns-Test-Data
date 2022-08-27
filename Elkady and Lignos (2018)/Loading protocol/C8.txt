@@ -1,4 +1,4 @@
-Time[sec]	Top_Inplane_Disp[mm]	Top_Inplane_Rotation[rad]
+Time[sec]	Top_Inplane_Disp[mm]	Top_Inplane_Rotation[%rad]
 0	-0.001663992	0
 0.09960938	0.000189941	3.76E-05
 0.19921875	9.13E-05	8.50E-06
